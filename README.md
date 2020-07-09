@@ -10,10 +10,12 @@ Reading books, playing tennis, drinking coffee, and learning languages.
 
 ## Goals for 2020
 
-Learn French!
+Learn French, learn JavaScript, and finish the [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) trilogy.
 
 ## Get in touch
 
-Twitter: https://twitter.com/masonrhayes
+[Twitter](https://twitter.com/masonrhayes)
 
-Personal website: https://masonrhayes.com
+<a rel="me" href="https://mamot.fr/@masonrhayes">Mastodon</a>
+
+[Personal Website](https://masonrhayes.com)
