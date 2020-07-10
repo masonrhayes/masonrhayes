@@ -14,8 +14,8 @@ Learn French, learn JavaScript, and finish the [Remembrance of Earth's Past](htt
 
 ## Get in touch
 
-[Twitter](https://twitter.com/masonrhayes)
+Twitter: [masonrhayes](https://twitter.com/masonrhayes)
 
-<a rel="me" href="https://mamot.fr/@masonrhayes">Mastodon</a>
+Mastodon: [masonrhayes@mamot.fr](https://mamot.fr/@masonrhayes) 
 
-[Personal Website](https://masonrhayes.com)
+Personal Website: https://masonrhayes.com
