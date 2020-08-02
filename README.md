@@ -12,10 +12,10 @@ Reading books, playing tennis, drinking coffee, and learning languages.
 
 Learn French, learn JavaScript, and finish the [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) trilogy.
 
-## Get in touch
+## Find me on social media
 
-Twitter: [masonrhayes](https://twitter.com/masonrhayes)
+[![Twitter Follow](https://img.shields.io/twitter/follow/masonrhayes?style=social)](https://twitter.com/masonrhayes)
 
-Mastodon: [masonrhayes@mamot.fr](https://mamot.fr/@masonrhayes) 
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/328627?domain=https%3A%2F%2Fmamot.fr&style=social)](https://mamot.fr/@masonrhayes)
 
 Personal Website: https://masonrhayes.com
