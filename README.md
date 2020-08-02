@@ -26,7 +26,7 @@ My primary research interests include economic inequality, game theory and behav
 - [ ] Learn JavaScript
 
 
-## Reach out
+## Social media
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/masonrhayes?style=social)](https://twitter.com/masonrhayes)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/328627?domain=https%3A%2F%2Fmamot.fr&style=social)](https://mamot.fr/@masonrhayes)
