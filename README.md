@@ -35,9 +35,3 @@ See my [LinkedIn](https://www.linkedin.com/in/masonrhayes) for my relevant work 
 - [ ] Reach a conversational level in French ![En cours](https://progress-bar.dev/25/?title=en%20cours)
 - [ ] Learn PostgreSQL ![postgres](https://progress-bar.dev/15/?title=in%20progress)
 - [ ] Learn Python
-
-
-## Social media
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/masonrhayes?style=social)](https://twitter.com/masonrhayes)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/328627?domain=https%3A%2F%2Fmamot.fr&style=social)](https://mamot.fr/@masonrhayes)
