@@ -12,6 +12,16 @@ For my personal projects, I have created an R package, [`sciteR`](https://github
 
 [![See my projects](https://img.shields.io/badge/projects-See%20my%20projects-red)](https://masonrhayes.com/#publications)
 
+## My GitHub stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masonrhayes&count_private=truea&show_icons=true&theme=graywhite" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonrhayes&hide=postscript,tex&theme=graywhite" />
+</a>
+
+
 ## Professional experience
 
 See my [LinkedIn](https://www.linkedin.com/in/masonrhayes) for my relevant work experience.
@@ -29,9 +39,9 @@ See my [LinkedIn](https://www.linkedin.com/in/masonrhayes) for my relevant work 
 - [x] Finish the [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) trilogy
 - [x] Start my Master's degree in Economics in France <img src="https://camo.githubusercontent.com/f4a3d88a2f40abc7a7ff08a39ae6ca21366250a5d603c131f6ad577239d0c119/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f466c61675f6f665f4672616e63652e737667" width="20">
 - [x] Learn R
-- [ ] Learn JavaScript ![failed](https://progress-bar.dev/5/?title=gave%20up) :man_shrugging:
+- [ ] Learn JavaScript
 
 ## Goals for 2021
 - [ ] Reach a conversational level in French ![En cours](https://progress-bar.dev/25/?title=en%20cours)
-- [ ] Learn PostgreSQL ![postgres](https://progress-bar.dev/15/?title=in%20progress)
+- [ ] Learn PostgreSQL ![postgres](https://progress-bar.dev/10/?title=in%20progress)
 - [ ] Learn Python
