@@ -1,6 +1,6 @@
 ## Hi, I'm Mason!
 
-I graduated in May 2020 from the [University of Oklahoma](https://www.ou.edu/) with a Bachelor’s degree in Economics and International Studies, and I am now pursuing a Master’s degree in Economics at the [Toulouse School of Economics](https://tse-fr.eu/) (TSE). My main focus is industrial organization and microeconomics.
+I graduated in May 2020 from the [University of Oklahoma](https://www.ou.edu/) with a Bachelor’s degree in Economics and International Studies, and I am now pursuing a Master’s degree in Economics at the [Toulouse School of Economics](https://tse-fr.eu/) (TSE), where I study the Economics of Markets and Organizations.
 
 Some of my recent university projects include [capital concentration in Argentina](https://masonrhayes.com/publication/radical-party/) at the beginning of the 20th century, [populism and economic inequality in Turkey](https://masonrhayes.com/publication/populism-and-inequality-in-turkey/), the optimization of pay-what-you-want pricing models, and the relationship between increasing [industrial concentration and inequality in the United States](https://masonrhayes.com/publication/the-inegalitarian-spiral/). At TSE, my projects include examining the health and welfare effects of a tax on sugar-sweetened beverages, as well as using a quasi-experimental differences-in-differences approach to estimate the effects of an earthquake on the level of informal competition in Chile.
 
