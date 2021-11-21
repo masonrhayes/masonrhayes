@@ -8,7 +8,7 @@ For my personal projects, I have created an R package, [`sciteR`](https://github
 
 ## Languages
 
-<img src="https://user-images.githubusercontent.com/39578155/142780594-ca458999-f87f-4275-b019-66edd4b3cdd4.png" width="75" height="60" /> <img src="https://user-images.githubusercontent.com/39578155/142780578-be2c8aa4-359c-43aa-9d3a-655d4b938f7d.png" width="110" height="75" />
+<a href="https://www.r-project.org/"> <img src="https://user-images.githubusercontent.com/39578155/142780594-ca458999-f87f-4275-b019-66edd4b3cdd4.png" width="75" height="60" /> </a> <a href="https://julialang.org"> <img src="https://user-images.githubusercontent.com/39578155/142780578-be2c8aa4-359c-43aa-9d3a-655d4b938f7d.png" width="110" height="75" />
 
 ![English](https://img.shields.io/static/v1?label=language&message=English%20%28native%29&color=blue)
 ![Español (C1)](https://img.shields.io/static/v1?label=language&message=Español%20%28C1%29&color=yellow)
