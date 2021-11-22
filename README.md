@@ -12,7 +12,7 @@ For my personal projects, I have created an R package, [`sciteR`](https://github
 
 ![English](https://img.shields.io/static/v1?label=language&message=English%20%28native%29&color=blue)
 ![Español (C1)](https://img.shields.io/static/v1?label=language&message=Español%20%28C1%29&color=yellow)
-![French (B1)](https://img.shields.io/static/v1?label=language&message=Français%20%28A2%29&color=crimson)
+![French (B1)](https://img.shields.io/static/v1?label=language&message=Français%20%28B1%29&color=crimson)
 
 [![See my projects](https://img.shields.io/badge/projects-See%20my%20projects-red)](https://masonrhayes.com/#publications)
 
@@ -32,7 +32,7 @@ See my [LinkedIn](https://www.linkedin.com/in/masonrhayes) for my relevant work 
 
 ## I enjoy:
 
-- Reading books :books:
+- Reading [books](https://masonrhayes.com/#reading) :books:
 - Playing tennis :tennis:
 - Drinking coffee :coffee:
 - Learning languages :earth_americas:
