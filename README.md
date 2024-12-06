@@ -1,6 +1,6 @@
 ## Hi :wave:, I'm Mason! 
 
-I work as an Economics Consultant at [AlixPartners](https://www.alixpartners.com/services/economics-consulting/) in London ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png), focused on antitrust litigation, particularly in digital platforms.
+I work as an Economics Consultant at [AlixPartners](https://www.alixpartners.com/what-we-do/investigations-disputes-advisory-services/economics-consulting/) in London ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png), focused on antitrust litigation, particularly in digital platforms.
 
 In 2022 I  graduated from the [Toulouse School of Economics (TSE)](https://tse-fr.eu/) ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png) with a Master's degree in the [Economics of Markets and Organizations](https://www.tse-fr.eu/master-emo-international-track), and I graduated in May 2020 from the [University of Oklahoma (OU)](https://www.ou.edu/) ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) with a Bachelor's degree in Economics and International Studies.
 
