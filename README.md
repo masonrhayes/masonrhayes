@@ -12,7 +12,6 @@ In 2022 I  graduated from the [Toulouse School of Economics (TSE)](https://tse-f
 ![Español (C1)](https://img.shields.io/static/v1?label=language&message=Español%20%28C1%29&color=yellow)
 ![French (B1)](https://img.shields.io/static/v1?label=language&message=Français%20%28B1%29&color=crimson)
 
-[![See my projects](https://img.shields.io/badge/projects-See%20my%20projects-red)](https://masonrhayes.com/#publications)
 
 ## My GitHub stats
 
